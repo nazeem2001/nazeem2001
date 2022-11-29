@@ -2,7 +2,7 @@
 - 👀 I’m interested in innovative problem solving, embeded systems, digital circuit desgin in verilog and VHDL
 - 🌱 I’m currently learning full stack web developement
 - 💞️ I’m looking to collaborate on innovative projects in embeded systems
-- 📫 Reach me on email at nazeem1kadapa@gmailcom
+- 📫 Reach me on email at nazeem1kadapa@gmail.com
 
 
 <!---
